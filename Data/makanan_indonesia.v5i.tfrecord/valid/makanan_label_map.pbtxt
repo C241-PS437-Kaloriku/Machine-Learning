@@ -1,0 +1,125 @@
+item {
+    name: "air",
+    id: 1,
+    display_name: "air"
+}
+item {
+    name: "anggur",
+    id: 2,
+    display_name: "anggur"
+}
+item {
+    name: "apel",
+    id: 3,
+    display_name: "apel"
+}
+item {
+    name: "ayam",
+    id: 4,
+    display_name: "ayam"
+}
+item {
+    name: "bakso",
+    id: 5,
+    display_name: "bakso"
+}
+item {
+    name: "bakwan",
+    id: 6,
+    display_name: "bakwan"
+}
+item {
+    name: "batagor",
+    id: 7,
+    display_name: "batagor"
+}
+item {
+    name: "bubur",
+    id: 8,
+    display_name: "bubur"
+}
+item {
+    name: "burger",
+    id: 9,
+    display_name: "burger"
+}
+item {
+    name: "cakwe",
+    id: 10,
+    display_name: "cakwe"
+}
+item {
+    name: "capcay",
+    id: 11,
+    display_name: "capcay"
+}
+item {
+    name: "crepes",
+    id: 12,
+    display_name: "crepes"
+}
+item {
+    name: "cumi",
+    id: 13,
+    display_name: "cumi"
+}
+item {
+    name: "donat",
+    id: 14,
+    display_name: "donat"
+}
+item {
+    name: "durian",
+    id: 15,
+    display_name: "durian"
+}
+item {
+    name: "es_krim",
+    id: 16,
+    display_name: "es_krim"
+}
+item {
+    name: "fu_yung_hai",
+    id: 17,
+    display_name: "fu_yung_hai"
+}
+item {
+    name: "gudeg",
+    id: 18,
+    display_name: "gudeg"
+}
+item {
+    name: "ikan",
+    id: 19,
+    display_name: "ikan"
+}
+item {
+    name: "jeruk",
+    id: 20,
+    display_name: "jeruk"
+}
+item {
+    name: "kacang",
+    id: 21,
+    display_name: "kacang"
+}
+item {
+    name: "kebab",
+    id: 22,
+    display_name: "kebab"
+}
+item {
+    name: "kentang",
+    id: 23,
+    display_name: "kentang"
+}
+item {
+    name: "kerupuk",
+    id: 24,
+    display_name: "kerupuk"
+}
+item {
+    name: "kopi",
+    id: 25,
+    display_name: "kopi"
+}
